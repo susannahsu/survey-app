@@ -1,5 +1,5 @@
 import React from "react";
-import { Form, Button, Container, Col, Row } from "react-bootstrap";
+import { Form, Button, Container } from "react-bootstrap";
 
 export default function Survey() {
   return (

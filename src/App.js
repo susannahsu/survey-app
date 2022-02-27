@@ -1,5 +1,5 @@
 import "./App.css";
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Login from "./pages/login";
 import Survey from "./pages/survey";
 function App() {
