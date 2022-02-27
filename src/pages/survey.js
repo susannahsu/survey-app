@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import { Form, Button, Container } from "react-bootstrap";
 import { Formik } from "formik";
+import React from "react";
+import { Button, Container, Form } from "react-bootstrap";
 import { createSurvey } from "../services/firebase";
 
 export default function Survey() {
