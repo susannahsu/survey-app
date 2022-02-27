@@ -2,6 +2,11 @@ import React from "react";
 import { Form, Button, Container } from "react-bootstrap";
 
 export default function Survey() {
+  // onFormSubmit = () => {
+  //   send form data to firestore
+  //   firestore.save(formdata)
+  // }
+
   return (
     <Container>
       <Form>
